@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Acme&family=DM+Sans:wght@500&family=Inter:wght@600&family=Nunito:wght@700&family=Overpass&family=Secular+One&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+}
+header {
+  margin: auto;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #f4feff;
+}
+.judul {
+  font-family: "Acme", sans-serif;
+  color: #172048;
+  font-size: 32px;
+  margin-left: 15px;
+  cursor: default;
+}
+nav {
+  margin-left: auto;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  display: flex;
+}
+nav ul {
+  display: flex;
+}
+nav li {
+  list-style-type: none;
+  margin-left: 20px;
+  margin-right: 30px;
+  margin-top: 2px;
+}
+nav li :hover {
+  color: #067a9e;
+}
+.navbar {
+  color: #c4c4c4;
+  text-decoration: none;
+}
+.navbar.active {
+  color: #067a9e;
+}
+.btnRegister {
+  font-family: "Poppins";
+  padding: 10px 24px;
+  margin-right: 20px;
+  margin-left: 15px;
+  color: #ffffff;
+  background: linear-gradient(97.65deg, #56e0e0 0.33%, #007299 93.35%);
+  box-shadow: 0px 10px 15px rgba(1, 115, 153, 0.2);
+  border: none;
+  border-radius: 39px;
+  cursor: pointer;
+}
+.register :hover {
+  color: #000000;
+}
+.opening {
+  background-color: #f4feff;
+}
+.pembuka {
+  font-family: "Poppins";
+  color: #172048;
+  font-weight: 700;
+  font-size: 64px;
+  cursor: default;
+}
+.mixColor {
+  background: linear-gradient(90.29deg, #50d9db 0.21%, #007299 99.79%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.subPembuka {
+  font-family: "Poppins";
+  color: #c4c4c4;
+  font-size: 18px;
+}
+.img1 {
+  width: min(100% - 10px, 500px);
+  height: auto;
+  margin-top: -35px;
+}
+.btnKonsultasi {
+  font-family: "Poppins";
+  padding: 10px 24px;
+  margin-right: 20px;
+  margin-left: 15px;
+  color: #ffffff;
+  background: linear-gradient(97.65deg, #56e0e0 0.33%, #007299 93.35%);
+  box-shadow: 0px 10px 15px rgba(1, 115, 153, 0.2);
+  border: none;
+  border-radius: 39px;
+}
+.konsultasi :hover {
+  background: linear-gradient(97.65deg, #007299 0.33%, #56e0e0 93.35%);
+  color: #000000;
+  cursor: pointer;
+}
+.tahapKonsultasi {
+  background-color: #ffffff;
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 48px;
+  cursor: default;
+}
+.card1 {
+  width: min(100% - 10px, 250px);
+  height: auto;
+  margin: auto;
+  padding-bottom: 40px;
+  color: #172048;
+  background-color: #f4feff;
+  border-radius: 30px;
+  filter: drop-shadow(0px 10px 15px rgba(151, 151, 151, 0.08));
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.card2 {
+  width: min(100% - 10px, 250px);
+  height: auto;
+  margin: auto;
+  padding-bottom: 40px;
+  color: #ffffff;
+  background: linear-gradient(180deg, #4ed6da 0%, #04789d 100%);
+  border-radius: 30px;
+  filter: drop-shadow(0px 10px 15px rgba(80, 216, 219, 0.04));
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.cardImage {
+  border-radius: 50%;
+  width: min(100% - 10px, 135px);
+  height: auto;
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+.tahap {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+.tahapan {
+  font-family: "Poppins";
+  font-size: 14px;
+}
+.carousel-inner {
+  padding-bottom: 50px;
+}
+.testimoni {
+  background-color: #f4feff;
+  height: 400px;
+}
+.test {
+  font-family: "Poppins";
+  font-weight: 700;
+  font-size: 48px;
+  background: linear-gradient(90.29deg, #45bdbf 0.21%, #005c7b 99.79%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.tester {
+  width: min(100% - 10px, 950px);
+  height: auto;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.25);
+}
+.testerImage {
+  width: min(100% - 10px, 145px);
+  height: auto;
+  margin: auto;
+}
+.tester h1 {
+  font-size: 24px;
+  font-family: "Lato";
+  color: #3d3d3d;
+  font-weight: bold;
+  margin-bottom: -2px;
+}
+.tester h2 {
+  font-size: 12px;
+  font-family: "Lato";
+  color: #525252;
+}
+.tester p {
+  font-size: 18px;
+  font-family: "Lato";
+  color: #3d3d3d;
+  width:  min(100% - 10px, 780px);
+}
+footer {
+  padding-bottom: 10px;
+  background-color: #25a2b8;
+  color: #FFFFFF;
+  border-top: 5px solid rgba(0, 0, 0, 0.07);
+}
+footer h1{
+  font-family: 'Acme';
+  font-size: 24px;
+  cursor: default;
+  margin-left: 15px;
+}
+footer h3{
+  font-family: 'Inter';
+  font-size: 10px;
+}
+footer p{
+  font-family: 'Inter';
+  font-size: 14px;
+  margin-left: 15px;
+  color: #FFFFFF;
+}
+.ord{
+  text-decoration: none;
+  width: 50px;
+}
+.ord :hover{
+  color:#067a9e;
+}
+.mail{
+  margin-left: 15px;
+  margin-top: -16px;
+}

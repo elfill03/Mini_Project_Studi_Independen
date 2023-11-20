@@ -1,0 +1,5 @@
+export {default as LinkBS} from "./LinkBS/LinkBs.atoms"
+export {default as BtnRegistrasi} from "./BtnRegistrasi/BtnRegistrasi.atoms"
+export {default as BtnOrder1} from "./BtnOrder1/BtnOrder1.atoms"
+export {default as BtnOrder2} from "./BtnOrder2/BtnOrder2.atoms"
+export {default as BtnDetail} from "./BtnDetail/BtnDetail.atoms"

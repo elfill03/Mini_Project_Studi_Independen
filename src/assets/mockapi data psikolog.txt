@@ -1,0 +1,44 @@
+[
+ {
+  "name": "Elyse Avianna, M. Psi., Psikolog",
+  "avatar": "https://lh3.googleusercontent.com/pw/AJFCJaXmtHf32s8Ruhq_J4GImRRuPVCfIbuvJSQ-pC_G64VOahj9V5mhfwX9zXrzyfe9S5konVh6vZPhi_zb_jBuyUEViOyz_H014V_6hqVmh3pilv8I3nHxRRez20N9iKR4U2V6ZFkoCx47uZs4miPkExq5=w600-h902-s-no?authuser=0",
+  "jenis_layanan": "Kecemasan",
+  "deskripsi_psikolog": "Elyse Avianna adalah seorang psikolog klinis lulusan dari Universitas Indonesia, Jawa Barat. Elyse memiliki keahlian dalam menangani permasalahan yang berkaitan dengan hubungan, kecemasan, dan traumatis di masa lalu.",
+  "id": "1"
+ },
+ {
+  "name": "Eva Noelle, M.Psi., Psikolog",
+  "avatar": "https://lh3.googleusercontent.com/pw/AJFCJaUFnAfBq4wKp1Z3qp-2QSWJKhepMt-eNQGTSyEWNENq5jYynSyJ6A1UGat88fbL4nQnMHzB6s0LzY7cqHL8G_sR9CdHoCUxaiJbuHuqDnGbXCMJiZONn9jbAwzDPRPzwcjhE3th8wDdQn_REbHF9COi=w722-h902-s-no?authuser=0",
+  "jenis_layanan": "Depresi",
+  "deskripsi_psikolog": "Eva Noelle adalah seorang psikolog klinis lulusan dari Universitas Brawijaya, Malang. Eva memiliki keahlian dalam menangani permasalahan yang berkaitan dengan hubungan, kecemasan, dan traumatis di masa lalu.",
+  "id": "2"
+ },
+ {
+  "name": "Astrid Daisy, M.Psi., Psikolog",
+  "avatar": "https://lh3.googleusercontent.com/pw/AJFCJaVOLOsphTCVMxZ08-lQTHRy_3V9IoHyQBF_EYEGvNZDq_baH8jhZ4KLRIAZplaTwKja22Rr5ohdvHj965KMTiA3zPdihIHxarJ-dRiyHw-DSwwq-4RMXgSg9Le8Skv1SUxdY88_gYVxV03LNzUDF_IW=w756-h902-s-no?authuser=0",
+  "jenis_layanan": "Percintaan",
+  "deskripsi_psikolog": "Astrid Daisy adalah seorang psikolog klinis lulusan dari Universitas Gadjah Mada, Yogyakarta. Astrid memiliki keahlian dalam mengelola emosi, terutama saat menghadapi kondisi yang kurang menyenangkan.",
+  "id": "3"
+ },
+ {
+  "name": "Nathan, M.Psi., Psikolog",
+  "avatar": "https://lh3.googleusercontent.com/pw/AJFCJaXCu-BHFyTCnSFBcWk3DdIFwwUFMFKxJUC8C6s9Y4UOSi59G9X6raXXUwymMOJZS4WgGuUuRBOkwzPbQu8gH1AlXdaCDDrmYglnBx4kFGUhL3yLvD0U9a5p8qIQAIWPOZANzjcQNbctSt_Df3j1-3EK=w1010-h902-s-no?authuser=0",
+  "jenis_layanan": "Keluarga",
+  "deskripsi_psikolog": "Nathan adalah seorang psikolog klinis lulusan dari Universitas Monash, Melbourne. Nathan berpengalaman dalam menangani permasalahan seperti stres kehidupan, dan relasi dengan orang lain seperti keluarga.",
+  "id": "4"
+ },
+ {
+  "name": "Owen Connor, M.Psi., Psikolog",
+  "avatar": "https://lh3.googleusercontent.com/pw/AJFCJaXyC8k0mUbaQoIbqzY49KbOYGgTVT7PzzjEaPBOUJj9XlrFsrIll7Yw6qUZTzwN2Y9rfP4u04WhAjkuAjE794z7fqQ8qPNMehiKtq4NQoGdP697wA9yR8W_Ex5jXJywSc6afRgkbip_ngrZ0oPhBwHZ=w602-h902-s-no?authuser=0",
+  "jenis_layanan": "Mental",
+  "deskripsi_psikolog": "Owen Connor adalah seorang psikolog klinis lulusan dari Universitas London, Inggis. Owen Fenni memiliki keahlian dalam menangani isu seputar relasi antar manusia, kelelahan emosional, dan gangguan psikologis lainnya.",
+  "id": "5"
+ },
+ {
+  "name": "Ananda Dipta, M.Psi., Psikolog",
+  "avatar": "https://lh3.googleusercontent.com/pw/AJFCJaXuPyR-gHgngz6E44oDJ9hIDbncyXh0BvJiws1PQ_hcoZRaXJELsjO2uNxZHIGIQsGoyS6HO79E6J7HvPP8nAMGR4r_JEDDJCVBnU-yA1GQZaTZ5hDJEEYuHtDTZ4PtuUu6pY1BFS8Y1cGb3X3JJ-3k=w602-h902-s-no?authuser=0",
+  "jenis_layanan": "Pertemanan",
+  "deskripsi_psikolog": "Ananda Dipta adalah seorang psikolog klinis lulusan dari Universitas Padjadjaran, Jawa Barat. Dipta berpengalaman dalam menangani permasalahan seperti stres kehidupan, hubungan pertemanan, dan suasana hati seseorang.",
+  "id": "6"
+ }
+]

@@ -1,0 +1,6 @@
+export {default as DashboardPage} from "./DashboardPage/DashboardPage.templates"
+export {default as LayananPage} from "./LayananPage/LayananPage.templates"
+export {default as PsikologPage} from "./PsikologPage/PsikologPage.templates"
+export {default as PesananPage} from "./PesananPage/PesananPage.templates"
+export {default as DetailPesananPage} from "./DetailPesananPage/DetailPesananPage"
+export {default as KonsultasiPage} from "./KonsultasiPage/KonsultasiPage"
