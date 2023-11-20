@@ -25,9 +25,12 @@ const Opening = () => {
               Teman Cerita menyediakan layanan konseling yang ramah, aman, dan
               terpercaya bagi semua orang.
             </p>
-            <BtnOrder1 onNavigate={handleNavigateKonsultasi}/>
+            <BtnOrder1 onNavigate={handleNavigateKonsultasi} />
           </div>
-          <div className="col ms-4">
+          <div
+            className="col"
+            style={{ display: "flex", justifyContent: "center" }}
+          >
             <img src={img1} alt="" className="img1" />
           </div>
         </div>
